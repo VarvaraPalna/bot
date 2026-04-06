@@ -403,7 +403,7 @@ PLACES = {
 # ---------- ПОДКАТЕГОРИИ ----------
 SUBCATEGORIES = {
     "NEWculture": {  # Для любителей искусства и современного творчества
-        "title": "Для любителей искусства",
+        "title": "Искусство",
         "places": [
             "Perm_gallery",
             "PERMM",
@@ -423,7 +423,7 @@ SUBCATEGORIES = {
         ]
     },
     "family": {  # Для семей с детьми
-        "title": "Для семей с детьми",
+        "title": "С детьми",
         "places": [
             "Perm_doll_museum",
             "Children_museum_center",
@@ -441,7 +441,7 @@ SUBCATEGORIES = {
         ]
     },
     "music": {  # Для ценителей музыкального и танцевального искусства
-        "title": "Музыкальное и танцевальное искусство",
+        "title": "Музыка и танцы",
         "places": [
             "Opera_Ballet",
             "Panfilov_Ballet",
@@ -452,7 +452,7 @@ SUBCATEGORIES = {
         ]
     },
     "theater": {  # Для поклонников драматического театра
-        "title": "Поклонникам драматического театра",
+        "title": "Драматический театр",
         "places": [
             "Teatr_Teatr",
             "U_Mosta",
@@ -463,7 +463,7 @@ SUBCATEGORIES = {
         ]
     },
     "unusual": {  # Для любителей необычных форматов и перформанса
-        "title": "Для любителей необычных форматов",
+        "title": "Необычный формат",
         "places": [
             "U_Mosta",
             "Teatr_Tyatrik",
@@ -471,7 +471,7 @@ SUBCATEGORIES = {
         ]
     },
     "culture1": {  # Для исследователей культурной среды
-        "title": "Для исследователей культурной среды",
+        "title": "Культурная среда",
         "places": [
             "Opera_Ballet",
             "U_Mosta",
@@ -483,7 +483,7 @@ SUBCATEGORIES = {
         ]
     },
     "tourist": {  # Для туристов и гостей города
-        "title": "Для туристов и гостей города",
+        "title": "Гостям города",
         "places": [
             "Opera_Ballet",
             "Teatr_Teatr",
@@ -500,7 +500,7 @@ SUBCATEGORIES = {
         ]
     },
     "streetart": {  # Для любителей современного искусства и стрит арта
-        "title": "Для любителей современного искусства",
+        "title": "Современное искусство",
         "places": [
             "Happiness_not_far",
             "Mirror_Bear",
@@ -511,7 +511,7 @@ SUBCATEGORIES = {
         ]
     },
     "familyWALK": {  # Для семейных прогулок и отдыха на природе
-        "title": "Для семейных прогулок",
+        "title": "Семейная прогулка",
         "places": [
             "Central_Park_Gorky",
             "Balatovo_Park",
@@ -525,7 +525,7 @@ SUBCATEGORIES = {
         ]
     },
     "nature": {  # Для любителей природы и экотуризма
-        "title": "Для любителей природы и экотуризма",
+        "title": "Природа и экотуризм",
         "places": [
             "Chernyaevsky_les",
             "Henkel_botanical_garden",
@@ -535,7 +535,7 @@ SUBCATEGORIES = {
         ]
     },
     "romantic": {  # Для романтических прогулок и фотосессий
-        "title": "Для романтических прогулок и фотосессий",
+        "title": "Романтическая прогулка",
         "places": [
             "Central_Park_Gorky",
             "Hands_Heart",
@@ -544,7 +544,7 @@ SUBCATEGORIES = {
         ]
     },
     "sport": {  # Для активного отдыха и спорта
-        "title": "Для активного отдыха и спорта",
+        "title": "Активный отдых",
         "places": [
             "Chernyaevsky_les",
             "Central_Park_Gorky",
@@ -555,7 +555,7 @@ SUBCATEGORIES = {
         ]
     },
     "study": {  # Для изучения городской среды и истории
-        "title": "Для изучения городской среды и истории",
+        "title": "История города",
         "places": [
             "Skver_Dzerzhinsky",
             "Permyak_salted_ears",
@@ -565,7 +565,7 @@ SUBCATEGORIES = {
         ]
     },
     "relax": {  # Для неспешного отдыха и созерцания
-        "title": "Для неспешного отдыха и созерцания",
+        "title": "Неспешный отдых",
         "places": [
             "Henkel_botanical_garden",
             "Serebryanskiy_park",
@@ -573,7 +573,7 @@ SUBCATEGORIES = {
         ]
     },
     "party": {  # Для массовых мероприятий и праздников
-        "title": "Для массовых мероприятий и праздников",
+        "title": "Массовые мероприятия",
         "places": [
             "Esplanada",
             "Central_Park_Gorky",
