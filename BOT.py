@@ -677,16 +677,35 @@ SUBCATEGORIES = {
     }
 
 }
-
 # ---------- РАЗДЕЛЫ ----------
 SECTIONS = {
     "walk": {
         "title": "🚶 Прогулка",
-        "categories": ['streetart', 'familyWALK', 'nature', 'romantic', 'sport', 'study', 'relax', 'party']
+        "categories": [
+            'streetart',
+            'familyWALK',
+            'nature',
+            'romantic',
+            'sport',
+            'study',
+            'relax',
+            'party',
+            'photo'
+        ]
     },
+
     "culture": {
         "title": "🎭 Культура",
-        "categories": ['NEWculture', 'family', 'music', 'theater', 'unusual', 'culture1', 'tourist']
+        "categories": [
+            'NEWculture',
+            'family',
+            'music',
+            'theater',
+            'unusual',
+            'culture1',
+            'tourist',
+            'coffee_walk'
+        ]
     }
 }
 
