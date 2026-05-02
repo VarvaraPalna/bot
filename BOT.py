@@ -816,7 +816,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
         )
 # ---------- ЗАПУСК ----------
 def main():
-    app = Application.builder().token("8236378306:AAHKBv5XbKZs5WfDsVYFv_WubBEtuFOdGcY").build()
+    app = Application.builder().token("8236378306:AAHqL58lRRKT3jZVewb0-EjW6CAYhCfM_OY").build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CallbackQueryHandler(button))
     print("Бот запущен...")
